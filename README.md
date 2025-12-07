@@ -1,6 +1,7 @@
 # Automated Seal Detection and Morphological Classification in Aerial Drone Imagery
 
 **A computer vision pipeline for monitoring megafauna using YOLOv8 and CLIP.**
+
 ![YOLOv8 Seal Detection](assets/sample_seal_detection_scores.jpg)
 
 ## Overview
