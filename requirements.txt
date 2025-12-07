@@ -1,0 +1,18 @@
+# Deep Learning
+torch>=1.10.0
+ultralytics==8.0.0
+open_clip_torch>=2.20.0
+
+# Computer Vision & Image Processing
+opencv-python-headless
+Pillow
+matplotlib
+seaborn
+
+# Data Handling
+numpy
+pandas
+scipy
+scikit-learn
+tqdm
+PyYAML
